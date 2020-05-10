@@ -6,7 +6,7 @@ A light theme for Bandaged BetterDiscord (BBD) that aims to be less blinding tha
 
 ## User Popouts
 
-This theme uses [USRGB Popouts](https://github.com/Discord-Custom-Covers/usrbg) by [Tropix126](https://github.com/Tropix126).
+This theme uses [USRGB Popouts and Modals](https://github.com/Discord-Custom-Covers/usrbg) by [Tropix126](https://github.com/Tropix126).
 
 ![Popout](media/popout.png)
 
